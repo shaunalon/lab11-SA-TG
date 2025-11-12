@@ -9,7 +9,7 @@ def square_root(a):
         return math.sqrt(a)
     except ValueError:
         print("Cannot take the square root of a negative number.")
-
+        raise
 def hypotenuse(a,b):
     return math.hypot(a,b)
 
