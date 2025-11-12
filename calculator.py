@@ -1,3 +1,7 @@
+# https://github.com/newmanhw/lab11-swe
+# Partner 1: Shaun Alon
+# Partner 2: Thaveesh Gallage
+
 import math
 
 def square_root(a):
